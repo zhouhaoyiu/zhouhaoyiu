@@ -6,6 +6,7 @@ I will graduate in June 2022.
 
 Welcome to contact me via email 648921469@qq.com or knight9z@vip.qq.com
 
+``` javascript
 function typeOf(value) {
     if (value === null) {
       return 'null'
@@ -40,3 +41,4 @@ function typeOf(value) {
       '[object Uint8ClampedArray]': 'Uint8ClampedArray',
     }[({}).toString.call(value)] : typeof (value)
   }
+```
