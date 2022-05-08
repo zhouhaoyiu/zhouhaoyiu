@@ -6,7 +6,7 @@ I'm learning Rust, Shell, Scala, Mathematica and maybe Haskell.
 
 Welcome to contact me via email 648921469@qq.com or knight9z@vip.qq.com.
 
-<img src="https://github-stats.liuli.lol/api?username=zhouhaoyiu&theme=vue&show_icons=true&include_all_commits=true&count_private=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaoyiu&show_icons=true&langs_count=10&theme=dracula"/>
+| <a href="void 0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhouhaoyiu&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="zhouhaoyiu's github stats" /></a> | <a href="void 0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouhaoyiu&layout=compact&theme=buefy&hide_border=true&langs_count=10" /></a> |
+| ------------- | ------------- |
 
 ![wall](https://ssr-contributions-svg.vercel.app/_/zhouhaoyiu?chart=3dbar&weeks=40&theme=random&format=png&quality=0.5)
