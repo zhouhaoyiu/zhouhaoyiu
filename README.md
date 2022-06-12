@@ -1,8 +1,8 @@
 I'm Mystic Zhou (Haoyu Zhou) and I'm a meter reader. 😀
 
-I'm using Vue, React, Python and C++. 👋
+I'm using Vue, React, Java and C++. 👋
 
-I'm learning Rust, Shell, Scala, Mathematica and maybe Haskell.
+I'm learning Rust, Shell, Ruby, Mathematica and maybe Haskell.
 
 Welcome to contact me via email 648921469@qq.com or knight9z@vip.qq.com.
 
