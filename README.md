@@ -10,5 +10,5 @@ Welcome to contact me via email 648921469@qq.com or knight9z@vip.qq.com.
 | ------------- | ------------- |
 
 ![wall](https://ssr-contributions-svg.vercel.app/_/zhouhaoyiu?chart=calendar&format=svg&weeks=50&theme=random)
-
+[![Zhou.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=zhouhaoyiu&theme=xcode)](https://github.com/zhouhaoyiu)
 よろしく お願いします
