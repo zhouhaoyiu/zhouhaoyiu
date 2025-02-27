@@ -1,4 +1,4 @@
-I'm Mystic Zhou (Haoyu Zhou) and I'm Study for Peking University. 😀
+I'm Mystic Zhou (Haoyu Zhou) and I'm Study for NEU. 😀
 
 I'm using Vue, React, Java and C++. 👋
 
