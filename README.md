@@ -1,4 +1,4 @@
-I'm Mystic Zhou (Haoyu Zhou) and I'm Study for iem. 😀
+I'm Mystic Zhou (Haoyu Zhou) and I'm study for Institute of Engineering Mechanics，CEA. 😀
 
 I'm using Vue, React, Java and C++. 👋
 
