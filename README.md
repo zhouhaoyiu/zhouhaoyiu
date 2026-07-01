@@ -6,7 +6,7 @@ I work with Python, TypeScript, Vue, Java, Rust, and C++. My recent work focuses
 
 ## Selected Work
 
-- [quake-report](https://github.com/zhouhaoyiu/quake-report): earthquake activity report generator.
+- [cn2jp-live-voice](https://github.com/zhouhaoyiu/cn2jp-live-voice): live Chinese-to-Japanese voice translation tools.
 - [sakiLanguage](https://github.com/zhouhaoyiu/sakiLanguage): Rust interpreter for the Saki language.
 - [strong-motion-product-window-qc](https://github.com/zhouhaoyiu/strong-motion-product-window-qc): reproducibility release for auditable strong-motion window selection.
 - [CausalStreamingPPicker_TGRS_release](https://github.com/zhouhaoyiu/CausalStreamingPPicker_TGRS_release): supplementary release package for CausalStreamingPPicker.
