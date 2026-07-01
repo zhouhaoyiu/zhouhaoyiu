@@ -17,6 +17,6 @@ I work with Python, TypeScript, Vue, Java, Rust, and C++. My recent work focuses
 
 - Email: knight9z@vip.qq.com
 - Location: Taiyuan, Shanxi, China
-- Institute of Engineering Mechanics, China Earthquake Administration
+- Harbin Institute of Technology
 
 [![Top Langs](https://github.com/zhouhaoyiu/github-stats-transparent/blob/output/generated/languages.svg)](https://github.com/zhouhaoyiu)
