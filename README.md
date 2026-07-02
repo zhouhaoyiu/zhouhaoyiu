@@ -4,6 +4,10 @@ Research software and engineering tools for earthquake engineering, strong-motio
 
 I work with Python, TypeScript, Vue, Java, Rust, and C++. My recent work focuses on seismic data processing, strong-motion quality control, report generation, and small tools that make research workflows easier to audit and reuse.
 
+<p align="center">
+  <img src="./assets/contribution-wall.svg" alt="3D GitHub contribution wall" />
+</p>
+
 ## Selected Work
 
 - [cn2jp-live-voice](https://github.com/zhouhaoyiu/cn2jp-live-voice): live Chinese-to-Japanese voice translation tools.
