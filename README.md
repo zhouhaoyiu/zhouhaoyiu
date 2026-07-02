@@ -5,7 +5,7 @@ Research software and engineering tools for earthquake engineering, strong-motio
 I work with Python, TypeScript, Vue, Java, Rust, and C++. My recent work focuses on seismic data processing, strong-motion quality control, report generation, and small tools that make research workflows easier to audit and reuse.
 
 <p align="center">
-  <img src="./assets/contribution-wall.svg" alt="3D GitHub contribution wall" />
+  <img src="https://ssr-contributions-img.zhouhaoyiu.workers.dev/_/zhouhaoyiu?chart=3dbar&amp;format=svg&amp;weeks=42&amp;flatten=0&amp;animation=wave&amp;theme=prism_break&amp;dark=false&amp;gradient=true&amp;strokeWidth=1&amp;strokeColor=ffffff&amp;legend=true&amp;legendPosition=bottom&amp;legendDirection=row" alt="3D GitHub contribution wall" />
 </p>
 
 ## Selected Work
