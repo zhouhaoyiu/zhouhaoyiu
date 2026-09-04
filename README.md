@@ -13,11 +13,12 @@ I work with Python, TypeScript, Vue, Java, Rust, and C++. My recent work focuses
 - [FE-Cli](https://github.com/zhouhaoyiu/FE-Cli): frontend project scaffolding CLI.
 - [SSFPG](https://github.com/zhouhaoyiu/SSFPG): experimental MATLAB and Rust accelerations for large-scale nonnegative earthquake source inversions.
 
-## Contact
+## Affiliation and Contact
 
+- Graduate student, Institute of Engineering Mechanics, China Earthquake Administration (IEM, CEA)
+- Harbin Institute of Technology
 - Email: knight9z@vip.qq.com
 - Location: Taiyuan, Shanxi, China
-- Harbin Institute of Technology
 
 [![Top Langs](https://github.com/zhouhaoyiu/github-stats-transparent/blob/output/generated/languages.svg)](https://github.com/zhouhaoyiu)
 
